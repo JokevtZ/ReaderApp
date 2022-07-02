@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328225823325",
+    "project_id": "readerapp-1fa0f",
+    "storage_bucket": "readerapp-1fa0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328225823325:android:e06fa4f3296f612b6a4bb4",
+        "android_client_info": {
+          "package_name": "nl.learningtocode.readerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328225823325-sra1vv6j2pqt38nutaqdudqhl3b3jo8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDozgxkknKNDYdLTKIev_sAfMhXJxJSR1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328225823325-sra1vv6j2pqt38nutaqdudqhl3b3jo8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
